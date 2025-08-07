@@ -107,10 +107,10 @@
                       ": Ethereum",
                       (0, l.jsx)("br", {}),
                       e("decimals"),
-                      ": 18",
+                      ": 9",
                       (0, l.jsx)("br", {}),
                       e("contract_address"),
-                      ": 0xEBc2c701BcA0C26767E9dcAdEB0BFDD993269218",
+                      ": 0x Comming Soon!",
                       (0, l.jsx)("br", {}),
                       e("faq3_answer_2"),
                     ],
@@ -122,7 +122,7 @@
                   content: e("faq1_answer"),
                 }),
                 (0, l.jsx)(r.default, {
-                  title: e("faq4_question"),
+                  title: e("How can I participate in this token?"),
                   content: e("faq4_answer"),
                 }),
                 (0, l.jsx)(r.default, {
@@ -192,7 +192,8 @@
                         "flex items-center justify-center -rotate-1 mt-4",
                       target: "_blank",
                       children: [
-                        (0, l.jsx)("span", {
+                        (0, l.jsx)("a", {
+                          href: "https://app.uniswap.org",
                           className:
                             "absolute text-[22px] lg:text-[38px] label-button z-10",
                           children: "BUY $SHIBI",
@@ -292,12 +293,14 @@
                 (0, l.jsxs)("div", {
                   className: "flex flex-row items-center justify-center mt-10",
                   children: [
-                    (0, l.jsxs)(o.rU, {
+                    (0, l.jsxs)("a", {
                       to: "presale",
+                      href: "https://app.uniswap.org",
                       className:
                         "flex items-center justify-center cursor-pointer w-[170px] md:w-auto relative",
                       children: [
-                        (0, l.jsxs)("span", {
+                        (0, l.jsxs)("a", {
+                          href: "https://app.uniswap.org",
                           className:
                             "absolute text-[22px] md:text-[28px] label-button overflow-hidden whitespace-nowrap text-ellipsis w-full px-4 text-center",
                           children: [e("buy"), " $SHIBI"],
@@ -516,22 +519,23 @@
                     (0, l.jsx)("span", {
                       className:
                         "text-[20px] text-black max-w-max xl:max-w-[466px]",
-                      children: e("tokenomics_content_1"),
+                      children: e("Experience unstoppable growth with Panshibi&#x27;s tokenomics! This governance token is designed to reward long-term holders with top-tier APYs and exclusive benefits. Our structure strikes the perfect balance between fairness and immense potential, all while building excitement and trust within the community. The dynamic pricing is your opportunity to secure $SHIBI early and maximize your rewards. Don’t wait—click the Buy $SHIBI button below and join the movement!"),
                     }),
                     (0, l.jsx)("span", {
                       className:
                         "text-[20px] text-black max-w-max xl:max-w-[466px]",
-                      children: e("tokenomics_content_2"),
+                      children: e("The key difference between Panshibi and most other tokens is our commitment to transparency and reliability. Panshibi has a clearly defined launch price and a fixed launch date. This ensures our community knows exactly what to expect and eliminates the uncertainty that surrounds the majority of tokens."),
                     }),
                     (0, l.jsxs)("div", {
                       className: "flex flex-row items-center justify-center",
                       children: [
-                        (0, l.jsxs)(o.rU, {
+                        (0, l.jsxs)("a", {
                           to: "presale",
                           className:
                             "flex items-center justify-center cursor-pointer w-[170px] md:w-auto",
                           children: [
-                            (0, l.jsxs)("span", {
+                            (0, l.jsxs)("a", {
+                              href: "https://app.uniswap.org",
                               className:
                                 "absolute text-[22px] md:text-[28px] label-button",
                               children: [e("buy"), " $SHIBI"],
@@ -563,12 +567,12 @@
                             (0, l.jsx)("span", {
                               className:
                                 "label-earth-stroke text-[24px] lg:text-[30px] text-white ml-0 lg:-ml-[50px]",
-                              children: "60%",
+                              children: "",
                             }),
                             (0, l.jsx)("span", {
                               className:
                                 "text-[18px] lg:text-[20px] text-black text-nowrap",
-                              children: "Presale",
+                              children: "",
                             }),
                           ],
                         }),
@@ -578,7 +582,7 @@
                             (0, l.jsx)("span", {
                               className:
                                 "label-earth-stroke text-[24px] lg:text-[30px] text-white ml-0 lg:ml-[30px]",
-                              children: "15%",
+                              children: "",
                             }),
                             (0, l.jsx)("span", {
                               className:
@@ -593,7 +597,7 @@
                             (0, l.jsx)("span", {
                               className:
                                 "label-earth-stroke text-[24px] lg:text-[30px] text-white ml-0 lg:ml-[45px]",
-                              children: "10%",
+                              children: "",
                             }),
                             (0, l.jsx)("span", {
                               className:
@@ -608,7 +612,7 @@
                             (0, l.jsx)("span", {
                               className:
                                 "label-earth-stroke text-[24px] lg:text-[30px] text-white ml-0 lg:ml-[30px]",
-                              children: "10%",
+                              children: "",
                             }),
                             (0, l.jsx)("span", {
                               className:
@@ -623,7 +627,7 @@
                             (0, l.jsx)("span", {
                               className:
                                 "label-earth-stroke text-[24px] lg:text-[30px] text-white ml-0 lg:-ml-[35px]",
-                              children: "5%",
+                              children: "",
                             }),
                             (0, l.jsx)("span", {
                               className:

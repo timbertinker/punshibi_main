@@ -44,7 +44,7 @@
                 [
                   (0, s.jsx)(s.Fragment, { children: t("terms2_content_1") }),
                   (0, s.jsx)(s.Fragment, { children: t("terms2_content_2") }),
-                  (0, s.jsx)(s.Fragment, { children: t("terms2_content_3") }),
+                  (0, s.jsx)(s.Fragment, { children: t("We make no guarantees or representations regarding the price, value, or utility of Panshibi tokens in the future.") }),
                 ],
               ],
             },
@@ -67,17 +67,7 @@
               ],
             },
             {
-              title: t("terms5_title"),
-              contents: [
-                [
-                  (0, s.jsx)(s.Fragment, { children: t("terms5_content_1") }),
-                  (0, s.jsx)(s.Fragment, { children: t("terms5_content_2") }),
-                  (0, s.jsx)(s.Fragment, { children: t("terms5_content_3") }),
-                ],
-              ],
-            },
-            {
-              title: t("terms6_title"),
+              title: t("5. Intellectual Property"),
               contents: [
                 [
                   (0, s.jsx)(s.Fragment, { children: t("terms6_content_1") }),
@@ -86,7 +76,7 @@
               ],
             },
             {
-              title: t("terms7_title"),
+              title: t("6. Limitation of Liability"),
               contents: [
                 [
                   (0, s.jsx)(s.Fragment, { children: t("terms7_content_1") }),
@@ -95,7 +85,7 @@
               ],
             },
             {
-              title: t("terms8_title"),
+              title: t("7. Updates to Terms"),
               contents: [
                 [
                   (0, s.jsx)(s.Fragment, { children: t("terms8_content_1") }),
@@ -104,33 +94,9 @@
               ],
             },
             {
-              title: t("terms9_title"),
+              title: t(""),
               contents: [
-                t("terms9_content_1"),
-                (0, s.jsxs)(
-                  m(),
-                  {
-                    href: "mailto:support@layerbrett.com",
-                    children: [
-                      t("email"),
-                      " ",
-                      (0, s.jsx)("b", { children: "support@panshibi.com" }),
-                    ],
-                  },
-                  1
-                ),
-                (0, s.jsxs)(
-                  m(),
-                  {
-                    href: "www.panshibi.com",
-                    children: [
-                      t("website"),
-                      " ",
-                      (0, s.jsx)("b", { children: "www.panshibi.com" }),
-                    ],
-                  },
-                  2
-                ),
+                t(""),
               ],
             },
           ];

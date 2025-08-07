@@ -96,7 +96,7 @@
                         }),
                         (0, t.jsx)("span", {
                           className: "text-black py-4 font-bold",
-                          children: e("about_content_1"),
+                          children: e("Panshibi is the new viral everyone’s talking about! Fueled by the power of community and the spirit of innovation."),
                         }),
                         (0, t.jsxs)(i.default, {
                           className:
@@ -105,7 +105,7 @@
                             (0, t.jsx)("span", {
                               className:
                                 "text-black md:text-[32px] text-left font-bold",
-                              children: e("about_content_2"),
+                              children: e("Panshibi… Don’t miss out on this token that’s changing the game!"),
                             }),
                             (0, t.jsx)("svg", {
                               className: "absolute top-1 right-1",
@@ -140,12 +140,13 @@
                         (0, t.jsx)("div", {
                           className:
                             "flex justify-center xl:justify-end w-full pt-8 mb-[180px] xl:mb-0",
-                          children: (0, t.jsxs)(d.rU, {
+                          children: (0, t.jsxs)("div", {
                             to: "presale",
                             className:
                               "flex items-center justify-center cursor-pointer",
                             children: [
-                              (0, t.jsxs)("div", {
+                              (0, t.jsxs)("a", {
+                                href: "https://app.uniswap.org",
                                 className:
                                   "absolute text-[22px] md:text-[28px] label-button",
                                 children: [e("buy"), " $SHIBI"],
@@ -656,8 +657,9 @@
                             className:
                               "flex-1 flex items-center justify-center cursor-pointer w-[160px]",
                             children: [
-                              (0, t.jsxs)(d.rU, {
+                              (0, t.jsxs)("a", {
                                 to: "presale",
+                                href: "https://app.uniswap.org",
                                 className:
                                   "absolute text-[22px] md:text-[28px] label-button",
                                 children: [e("buy"), " $SHIBI"],

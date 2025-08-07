@@ -40591,7 +40591,7 @@ if (cid) {
         treasuryAddress: "0x4c4052007CCEA0E62B8FaA818019F817296F5354",
         presaleAddress: "0x958713B08536Ba87165002b167e3911787f083Be",
         usdtAddress: "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-        tokenAddress: "0xEBc2c701BcA0C26767E9dcAdEB0BFDD993269218",
+        tokenAddress: "0x Comming Soon!",
         usdtDecimal: 6,
         tokenDecimal: 18,
         minTokenToBuy: 1e4,
@@ -65573,16 +65573,11 @@ ${this.value ?? ""}</textarea
           { address: es, isConnected: el } = (0, et.m)();
         return (0, X.jsxs)("button", {
           className: "flex items-center justify-center cursor-pointer",
-          onClick: () => {
-            es && el ? (0, er.z)(ei.wagmiConfig) : ei.web3Modal.open();
-          },
           children: [
-            (0, X.jsx)("span", {
+            (0, X.jsx)("a", {
+              href: "https://app.uniswap.org",
               className: "absolute text-[22px] md:text-[28px] label-button",
-              children:
-                es && el
-                  ? (0, eo.shortenAddress)(es)
-                  : (0, ea.t)("Connect Wallet"),
+              children: "Buy Now"
             }),
             (0, X.jsx)(ee.default, { className: "h-[48px] md:h-[63px]" }),
           ],
@@ -74742,19 +74737,15 @@ ${this.value ?? ""}</textarea
                     (0, X.jsxs)("div", {
                       className:
                         "items-center justify-center cursor-pointer hidden xl:flex",
-                      onClick: () => {
-                        x && W
-                          ? (0, eu.z)(ed.wagmiConfig)
-                          : ed.web3Modal.open();
-                      },
+                      
+                      
                       children: [
-                        (0, X.jsx)("span", {
+                        (0, X.jsx)("a", {
+                          // onClick: () => windows.href("https://app.uniswap.org"),
+                          href: "https://app.uniswap.org",
                           className:
                             "absolute text-[36px] md:text-[28px] label-button",
-                          children:
-                            x && W
-                              ? (0, ep.shortenAddress)(x)
-                              : s("Connect Wallet"),
+                          children: "Buy Now"
                         }),
                         (0, X.jsx)(eh.default, {}),
                       ],

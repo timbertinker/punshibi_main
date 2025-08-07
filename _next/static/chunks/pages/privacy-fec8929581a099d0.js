@@ -40,7 +40,7 @@
                       t("privacy1_content_1_1_1"),
                       (0, c.jsx)("br", {}),
                       "\xa0\xa0\xa0",
-                      t("privacy1_content_1_1_2"),
+                      t("Participating in the Panshibi token."),
                       (0, c.jsx)("br", {}),
                       "\xa0\xa0\xa0",
                       t("privacy1_content_1_1_3"),
@@ -199,33 +199,9 @@
               ],
             },
             {
-              title: t("terms9_title"),
+              title: t(""),
               contents: [
-                t("privacy9_content_1"),
-                (0, c.jsxs)(
-                  i(),
-                  {
-                    href: "mailto:support@layerbrett.com",
-                    children: [
-                      t("email"),
-                      " ",
-                      (0, c.jsx)("b", { children: "support@panshibi.com" }),
-                    ],
-                  },
-                  1
-                ),
-                (0, c.jsxs)(
-                  i(),
-                  {
-                    href: "www.panshibi.com",
-                    children: [
-                      t("website"),
-                      " ",
-                      (0, c.jsx)("b", { children: "www.panshibi.com" }),
-                    ],
-                  },
-                  2
-                ),
+                t(""),
               ],
             },
           ];
