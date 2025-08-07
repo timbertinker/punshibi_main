@@ -67562,7 +67562,7 @@ ${this.value ?? ""}</textarea
                       (0, X.jsxs)(X.Fragment, {
                         children: [
                           (0, X.jsx)(eH(), {
-                            href: "https://x.com/Panshibi_",
+                            href: "https://x.com",
                             className: "hover:scale-110",
                             target: "_blank",
                             children: (0, X.jsx)(e$.default, {
@@ -67570,7 +67570,7 @@ ${this.value ?? ""}</textarea
                             }),
                           }),
                           (0, X.jsx)(eH(), {
-                            href: "https://t.me/panshibi",
+                            href: "https://t.me",
                             className: "hover:scale-110",
                             target: "_blank",
                             children: (0, X.jsx)(eF.default, {
@@ -74527,7 +74527,7 @@ ${this.value ?? ""}</textarea
                             className: "flex gap-2 mt-8",
                             children: [
                               (0, ei.jsx)(rS(), {
-                                href: "https://x.com/Panshibi_",
+                                href: "https://x.com",
                                 className: "hover:scale-110",
                                 target: "_blank",
                                 children: (0, ei.jsx)(rI.default, {
@@ -74535,7 +74535,7 @@ ${this.value ?? ""}</textarea
                                 }),
                               }),
                               (0, ei.jsx)(rS(), {
-                                href: "https://t.me/Panshibi",
+                                href: "https://t.me",
                                 className: "hover:scale-110",
                                 target: "_blank",
                                 children: (0, ei.jsx)(rP.default, {
@@ -74717,7 +74717,7 @@ ${this.value ?? ""}</textarea
                       className: "hidden lg:flex gap-2 px-4",
                       children: [
                         (0, X.jsx)(eo(), {
-                          href: "https://x.com/Panshibi_",
+                          href: "https://x.com",
                           className: "hover:scale-110",
                           target: "_blank",
                           children: (0, X.jsx)(el.default, {
@@ -74725,7 +74725,7 @@ ${this.value ?? ""}</textarea
                           }),
                         }),
                         (0, X.jsx)(eo(), {
-                          href: "https://t.me/Panshibi",
+                          href: "https://t.me",
                           className: "hover:scale-110",
                           target: "_blank",
                           children: (0, X.jsx)(es.default, {

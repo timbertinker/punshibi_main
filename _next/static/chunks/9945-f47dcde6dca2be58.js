@@ -638,7 +638,7 @@
                         className: "flex flex-row items-center justify-center",
                         children: [
                           (0, t.jsxs)(m(), {
-                            href: "https://x.com/Panshibi_",
+                            href: "https://x.com",
                             className:
                               "flex-1 flex items-center justify-center cursor-pointer w-[160px]",
                             target: "_blank",
