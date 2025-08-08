@@ -325,6 +325,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
                     children: [
                       (0, a.jsxs)("div", {
                         className: "flex flex-col w-fit relative z-10 md:px-20",
+                        style: {marginTop: "120px"},
                         children: [
                           (0, a.jsxs)("div", {
                             className: "flex gap-1 items-center",

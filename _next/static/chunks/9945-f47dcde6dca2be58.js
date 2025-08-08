@@ -593,7 +593,7 @@
                         (0, t.jsx)("span", {
                           className:
                             "absolute text-[48px] label-button text-center",
-                          children: e("wen_binance"),
+                          children: e("Wen? Moonshot"),
                         }),
                         (0, t.jsx)(o.default, {
                           className: "right-[140px] bottom-[650px]",
